@@ -1,4 +1,4 @@
-with open("input2", "r") as f:
+with open("input", "r") as f:
     f = f.read()
 
 f = f.replace("three","th3ree").replace("eight","ei8ght").replace("two","t2wo").replace("one","on1e")\
