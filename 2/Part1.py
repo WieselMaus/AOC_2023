@@ -8,4 +8,6 @@ for line in f:
         digit = digit.split(",")
         for part in digit:
             part = part.split(" ")
-            print(part)
+            if part.isdigit() and :
+
+
